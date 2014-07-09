@@ -31,5 +31,5 @@ if __name__ == "__main__":
     print "=========================================="
     print "COPYRIGHT 2013 SHUBHRO SAHA, CHARLIE MARSH"
     print "=========================================="
-    say("Hello.... I am Jasper... Please wait one moment.")
+    say("Hello.... I am Yana... Please wait one moment.")
     configure()
